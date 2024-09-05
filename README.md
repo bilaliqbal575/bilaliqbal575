@@ -6,17 +6,17 @@ Hello, I'm **Bilal**! I have a degree in **Computer Science** and over **6+ year
 
 ## 🚀 Technologies & Tools
 
-I’m skilled in both front-end and back-end technologies, and I love to keep learning new things! Here’s a glimpse of what I’ve mastered:
+I’m skilled in front-end and back-end technologies, and I love learning new things! Here’s a glimpse of what I’ve mastered:
 
 - **Frontend**: CSS, **JavaScript**, **TypeScript**, React, **NextJS**, Angular, jQuery
 - **Backend**: **MERN Stack**, **NestJS**, **Java**, **Spring Boot**, **JavaFX**, **Hibernate**, Rust
 - **Cloud & DevOps**: **AWS**, **GCP**, **Azure**, **CI/CD pipelines**
 - **Databases**: **SQL**, **MongoDB**
 - **Version Control**: GitHub, GitLab
-- **Operating Systems**: Proficient with **Linux** systems
+- **Operating Systems**: Proficient with **Windows** and **Linux** systems
 - **IDEs**: **Visual Studio**, **Sublime Text**, **Eclipse**
 
-I’m continuously expanding my skill set to stay up to date with the latest trends and technologies in the industry. 💡
+I’m continuously expanding my skill set to stay updated with the latest industry trends and technologies. 💡
 
 ---
 
