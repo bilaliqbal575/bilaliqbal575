@@ -13,8 +13,10 @@ I’m skilled in both front-end and back-end technologies, and I love to keep le
 - **Cloud & DevOps**: **AWS**, **GCP**, **Azure**, **CI/CD pipelines**
 - **Databases**: **SQL**, **MongoDB**
 - **Version Control**: GitHub, GitLab
+- **Operating Systems**: Proficient with **Linux** systems
+- **IDEs**: **Visual Studio**, **Sublime Text**, **Eclipse**
 
-I’m continuously expanding my skill set to stay updated with the latest industry trends and technologies. 💡
+I’m continuously expanding my skill set to stay up to date with the latest trends and technologies in the industry. 💡
 
 ---
 
